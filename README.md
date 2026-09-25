@@ -5,7 +5,7 @@ This repository contains an end-to-end data analytics and procurement optimizati
 
 ### 🚀 Interactive Dashboard Preview
 
-![Tableau Dashboard Preview] (KACHS Dashboard)
+![Tableau Dashboard Preview] (KACHS Dashboard.png)
 
 *👉 [https://public.tableau.com/app/profile/mohammad.nadim.khan/viz/RedevelopmentKACHS/TenderSummary]* 
 
